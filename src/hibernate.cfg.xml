@@ -18,5 +18,4 @@
 		<mapping class="model.Vid"/>
 		<mapping class="model.Entrada"/>
 	</session-factory>
-	
 </hibernate-configuration>
